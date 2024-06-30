@@ -1,7 +1,9 @@
 Battleship Game
+
 Welcome to the Battleship Game project! This is a classic implementation of the Battleship game in Python, where players attempt to sink each other's fleet of ships by guessing their locations on a grid.
 
 Features:
+
 Single-Player Mode: Play against a simple AI that randomly places and guesses ship locations.
 Grid-Based Gameplay: A a user customizable grid where ships are be placed in cells using Random Function.
 Interactive Command-Line Interface: Users input their guesses through the command line and receive feedback.
@@ -21,5 +23,6 @@ Random.radint() generates a random integer between 1 to 9 as coordinates to plac
 5)	Range function
 
 Acknowledgments:
+
 Thanks to the Python community for their excellent tutorials and resources.
 
